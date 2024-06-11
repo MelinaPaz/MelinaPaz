@@ -31,12 +31,7 @@
 
 <h3>⚙️ GitHub </h3>
 
-<p align="center">
-<a href="https://github.com/MelinaPaz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
- 
-</a>
-</p>
+![MelinaPaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelinaPaz&hide=contribs,prs&theme=tokyonight)
 
 <h2>✨¡Thank you very much for viewing my profile!✨</h2> 
 <img src="https://media.tenor.com/Rc9fMpcDoKUAAAAi/blankies-pepe.gif"/>
