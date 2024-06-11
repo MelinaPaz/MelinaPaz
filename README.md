@@ -13,7 +13,7 @@
 - 🧉 In my free time I like to go out and explore new places.
 - 📫 You can write to my email “pazmelinaeva@gmail.com” for a quick response.
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w4NmhkNzhtZ3NwaXloeThydjlyZ3BjcXkwYmxzd3hzZHkxdXBnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xyGspig9UUbHc4/giphy.gif" align="right" alt="GIF" height="160px"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2w4NmhkNzhtZ3NwaXloeThydjlyZ3BjcXkwYmxzd3hzZHkxdXBnYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xyGspig9UUbHc4/giphy.gif" align="right" alt="GIF" height="380px"/>
 
 <h3>🛠 Tools I know</h3> 
 
