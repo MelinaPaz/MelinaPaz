@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-## I am studying full stack web development 📚
+## I'm studying full stack web development 📚
 
 - 👨‍💻 Learning about Frontend and Backend technologies.
 - 💪🏼 Future goals: Learn more programming languages and specialize.
