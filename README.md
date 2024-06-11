@@ -29,7 +29,7 @@
 <a href="https://x.com/home"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="mailto:pazmelinaeva@gmail.com?subject=Hola%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
-<h2>✨Thank you very much for viewing my profile!!</h2> 
+<h2>✨¡Thank you very much for viewing my profile!✨</h2> 
 <img src="https://media.tenor.com/Rc9fMpcDoKUAAAAi/blankies-pepe.gif"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
