@@ -29,6 +29,15 @@
 <a href="https://x.com/home"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="mailto:pazmelinaeva@gmail.com?subject=Hola%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
+<h3>⚙️ GitHub </h3>
+
+<p align="center">
+<a href="https://github.com/MelinaPaz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+ 
+</a>
+</p>
+
 <h2>✨¡Thank you very much for viewing my profile!✨</h2> 
 <img src="https://media.tenor.com/Rc9fMpcDoKUAAAAi/blankies-pepe.gif"/>
 
